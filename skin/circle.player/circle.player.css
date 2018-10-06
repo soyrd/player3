@@ -112,19 +112,19 @@
 }
 
 .cp-controls .cp-play {
-	background:url("controls.jpg") 0 0 no-repeat;
+	background:url("https://2.bp.blogspot.com/-pNLu-v9bAaw/W7gUKQtuvSI/AAAAAAAAAQ0/RVO26TFm3uEhhelcqStTD88oZ2hDdtuOQCLcBGAs/s1600/play.png") 0 0 no-repeat;
 }
 
 .cp-controls .cp-play:hover {
-	background:url("controls.jpg") -50px 0 no-repeat;
+	background:url("https://2.bp.blogspot.com/-pNLu-v9bAaw/W7gUKQtuvSI/AAAAAAAAAQ0/RVO26TFm3uEhhelcqStTD88oZ2hDdtuOQCLcBGAs/s1600/play.png") -50px 0 no-repeat;
 }
 
 .cp-controls .cp-pause {
-	background:url("controls.jpg") 0 -50px no-repeat;
+	background:url("https://3.bp.blogspot.com/-wWENe7TLN8E/W7gUKc-NmsI/AAAAAAAAAQ4/emusvL9j2sYOoOw6HVesU81zhwJDRHK9gCLcBGAs/s1600/pausa.png") 0 -50px no-repeat;
 }
 
 .cp-controls .cp-pause:hover {
-	background:url("controls.jpg") -50px -50px no-repeat;
+	background:url("https://3.bp.blogspot.com/-wWENe7TLN8E/W7gUKc-NmsI/AAAAAAAAAQ4/emusvL9j2sYOoOw6HVesU81zhwJDRHK9gCLcBGAs/s1600/pausa.png") -50px -50px no-repeat;
 }
 
 .cp-jplayer {
